@@ -5,6 +5,7 @@ backtest_engine.egg-info/dependency_links.txt
 backtest_engine.egg-info/top_level.txt
 src/__init__.py
 src/main.py
+src/visualizations.py
 src/backtest/__init__.py
 src/backtest/backtester.py
 src/data/__init__.py
@@ -12,7 +13,11 @@ src/data/data_loader.py
 src/strategies/__init__.py
 src/strategies/base_strategy.py
 src/strategies/bollinger_band.py
+src/strategies/macd.py
 src/strategies/moving_average.py
+src/strategies/rsi.py
+src/strategies/simple_moving_average.py
+src/strategies/vwap.py
 src/utils/__init__.py
 src/utils/metrics.py
 src/utils/visualizations.py
