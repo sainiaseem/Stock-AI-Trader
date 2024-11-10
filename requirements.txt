@@ -3,3 +3,6 @@ streamlit
 matplotlib
 yfinance
 plotly
+datetime
+numpy
+-e .
